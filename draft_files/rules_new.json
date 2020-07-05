@@ -1,0 +1,29 @@
+{
+  "head": {
+    "mandatory_tags": [
+      "title"
+    ],
+    "attr": [
+      {
+        "meta": [
+          "name=descriptions",
+          "name=keywords"
+        ]
+      }
+    ]
+  },
+  "html": {
+    "attr": {
+      "img": [
+        "alt=any"
+      ],
+      "a": [
+        "rel=any"
+      ]
+    },
+    "maxTagCount": {
+      "h1": 1,
+      "strong": 15
+    }
+  }
+}

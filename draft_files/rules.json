@@ -1,0 +1,19 @@
+{
+  "head" : {
+    "withoutTag": ["title"]
+  },
+  "img": {
+    "without": ["alt"]
+  },
+  "a": {
+    "without": ["rel"]
+  },
+  "strong": {
+    "maxTagCount": 15,
+    "errorStr" : "This HTML have more than {0} <strong> tag"
+  },
+  "h1": {
+    "maxTagCount": 1,
+    "errorStr" : "This HTML have more than one <h1> tag"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "img": "without {alt} attribute",
+  "a": "without {rel} attribute",
+  "head/title" : "required",
+  "head/meta" : ["name=descriptions","name=keywords"],
+  "strong" : "more than {15} tags",
+  "h1" : "more than {1} tags"
+}
