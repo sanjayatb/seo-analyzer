@@ -14,7 +14,7 @@ setup(
     description='An SEO tool that analyzes the structure of a html, and warns of any technical SEO issues based on configured rules',
     author='Sanjaya Bandara',
     author_email='arstbandara@gmail.com',
-    url='https://github.com/sethblack/python-seo-analyzer',
+    url='https://github.com/sanjayatb/seo-analyzer',
     packages=find_packages(),
     keywords=['search engine optimization', 'seo'],
     package_data={'seoanalyzer': ['testFiles/test1.html']},

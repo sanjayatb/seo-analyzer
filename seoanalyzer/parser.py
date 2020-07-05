@@ -41,6 +41,6 @@ class HTMLParser(ParserInterface):
         while i < n:
             j = rawdata.find('<', i)
             if j < 0:
-                #Simple html parser code goes here
+                #html parser code goes here
                 # Each tag position found, we can call the interface method where use can override
                 pass

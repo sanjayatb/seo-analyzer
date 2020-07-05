@@ -1,0 +1,7 @@
+1. {<img/>} tag without {alt} attribute
+2. {<a/>} tag without {rel} attribute
+3. {<head>} tag doesn't have {title} tag
+4. {<head>} tag doesn't have {<meta name=“descriptions”/>} tag
+5. {<head>} tag doesn't have {<meta name=“keywords”/>} tag
+6. {<strong>} tag appears more than {15} times"
+7. {<h1>} tag appears more than {1} times"
